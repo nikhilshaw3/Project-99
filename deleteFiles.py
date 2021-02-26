@@ -3,7 +3,7 @@ import shutil
 import time
 
 path=input("Enter path of the folder .")
-days=30
+days=0
 seconds=time.time()-(days*24*60*60)
 
 
